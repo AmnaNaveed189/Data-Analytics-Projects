@@ -1,4 +1,6 @@
 **HR Analytics Dashboard**
+
+
 **📊 Project Overview**
 This project presents an interactive HR Analytics Dashboard that visualizes key workforce metrics, including employee count, attrition rate, job satisfaction, department performance, and demographic breakdowns. The goal is to enable HR teams and executives to gain actionable insights into employee trends, improve retention strategies, and drive evidence-based decisions.
 
@@ -12,6 +14,11 @@ This project presents an interactive HR Analytics Dashboard that visualizes key 
 **Interactive Visuals:** Utilizes pie charts, bar graphs, and heatmaps for intuitive understanding.
 
 **Customizable Filters:** Segment data by education or other relevant attributes.
+
+**Tech Stack:**
+
+**Data Format:** csv
+**Data Visualization:** Tableau
 
 **📈 Key Insights**
 The highest attrition is observed in the Sales department and among Life Sciences graduates.

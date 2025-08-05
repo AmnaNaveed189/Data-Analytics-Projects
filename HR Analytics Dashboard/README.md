@@ -1,56 +1,54 @@
-**🫀 Cardiac Outcome Analysis Dashboard**
+**HR Analytics Dashboard**
 
-**📚 Project Overview**
+**📊 Project Overview**
 
-This project showcases an interactive dashboard for analyzing clinical data related to cardiac outcomes. Using real patient-level data, the dashboard enables detailed exploration of key cardiac biomarkers, patient demographics, and outcome trends, empowering clinicians and researchers to derive actionable insights for risk assessment and patient care improvements.
+This project presents an interactive HR Analytics Dashboard that visualizes key workforce metrics, including employee count, attrition rate, job satisfaction, department performance, and demographic breakdowns. The goal is to enable HR teams and executives to gain actionable insights into employee trends, improve retention strategies, and drive evidence-based decisions.
 
 .
 
-**🔬 Objectives**
+**🛠️ Features Attrition Analysis:**
+Track overall and department-wise attrition, identify high-risk groups, and evaluate attrition rates by gender and age group.
 
-Visualize cardiac biomarker trends (Troponin, CK-MB, Blood Sugar, Heart Rate) across different age groups and outcomes.
+**Demographics:** Explore employee distribution by age, education field, and department.
 
-Segment patient outcomes (positive/negative) and demographic attributes (age, gender).
+**Job Satisfaction:** Analyze satisfaction levels across job roles to spot trends and improvement areas.
 
-Support early detection and better management of cardiac events.
+**Interactive Visuals:** Utilizes pie charts, bar graphs, and heatmaps for intuitive understanding.
 
-**🏥 Key KPIs**
-Total Patients: 1,319
+**Customizable Filters:** Segment data by education or other relevant attributes.
 
-Average Troponin Level: 0.36
+**📂 Dashboard At a Glance**
 
-Average CK-MB Level: 15.27
+**Employee Overview:** Highlights total employees, active count, and attrition rate.
 
-Average Blood Sugar: 146.63
+**Department and Education Insights:** Reveals where attrition is most frequent.
 
-Average Heart Rate: 78.34
+**Age & Gender Analytics:** Provides attrition diagnostics across key demographics.
 
-**🖥️ Dashboard Features**
-**Patient Segmentation:** Filter results by outcome, age group, and gender.
+**Job Satisfaction Matrix:** Enables granular evaluation by role.
 
-**Biomarker Visualization:** Average CK-MB and Troponin by age.
-
-Blood Sugar and Heart Rate summary statistics.
-
-**Outcome Analysis:** Breakdown of positive (61.41%) vs. negative (38.59%) cardiac results.
-
-**Interactive Charts:** Explore distributions, trends, and relationships between age and biomarkers.
-
-**Data Table:** View underlying data for transparency and reproducibility.
-
-**🛠️ Technologies Used**
+**🚀 Technologies Used**
 
 **Data Format:** csv
 
-**Data Visualization:** Power Bi
+**Data Visualization:** Tableau
 
-**💡 Insights**
-Positive outcomes (indicative of cardiac events) are observed in 61% of patients.
+**📈 Key Insights**
 
-Troponin and CK-MB levels vary significantly with age, highlighting key risk profiles.
+The highest attrition is observed in the Sales department and among Life Sciences graduates.
 
-The dashboard allows for rapid clinical stratification based on patient features.
+Attrition rate varies noticeably across gender and age groups.
 
-**🎯 Value Proposition**
+Job satisfaction varies widely, signaling possible areas for management action.
 
-This project demonstrates proficiency in real-world healthcare data analysis, dashboard-building, and translating raw clinical results into meaningful visual insights for healthcare stakeholders.
+**🎯 Purpose & Value**
+
+This project demonstrates practical data analysis skills applied to real-world HR data. It showcases:
+
+Data wrangling and exploration.
+
+Business-focused storytelling via visual analytics.
+
+Transforming raw data into meaningful executive reports.
+
+
